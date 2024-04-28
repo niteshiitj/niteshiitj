@@ -16,7 +16,7 @@ https://ppt-design.com/
 https://connectdmvet.com/
 https://manager.connectdmvet.com/
 https://chatdmvet.com/
-https://manager.chatdmvet.com/ 
+https://manager.chatdmvet.com/
 https://student-cribs.com/
 https://sealogs.com/
 https://hr.excellencetechnologies.in/
