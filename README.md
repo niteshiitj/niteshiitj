@@ -16,13 +16,13 @@ For over 3 years, I have successfully managed multiple projects independently on
 <h3>👨‍💻 Projects</h3>
 <p>Here are some of the projects I have worked on:</p>
 <ul>
-    <li><a href="https://ppt-design.com/">PPT Design</a></li>
-    <li><a href="https://connectdmvet.com/">ConnectDM Vet</a></li>
-    <li><a href="https://manager.connectdmvet.com/">ConnectDM Vet Manager</a></li>
-    <li><a href="https://student-cribs.com/">Student Cribs</a></li>
-    <li><a href="https://sealogs.com/">SeaLogs</a></li>
-    <li><a href="https://hr.excellencetechnologies.in/">Excellence Technologies HR</a></li>
-    <li><a href="https://app.kolabree.com/">Kolabree</a></li>
+    <li><a href="https://ppt-design.com/" target="_blank">PPT Design</a></li>
+    <li><a href="https://connectdmvet.com/" target="_blank">ConnectDM Vet</a></li>
+    <li><a href="https://manager.connectdmvet.com/" target="_blank">ConnectDM Vet Manager</a></li>
+    <li><a href="https://student-cribs.com/" target="_blank">Student Cribs</a></li>
+    <li><a href="https://sealogs.com/" target="_blank">SeaLogs</a></li>
+    <li><a href="https://hr.excellencetechnologies.in/" target="_blank">Excellence Technologies HR</a></li>
+    <li><a href="https://app.kolabree.com/" target="_blank">Kolabree</a></li>
 </ul>
 
 <h3>🛠️ Languages and Tools</h3>
@@ -74,8 +74,8 @@ For over 3 years, I have successfully managed multiple projects independently on
 
 <h3>📫 Connect with Me</h3>
 <p>
-    <a href="https://www.linkedin.com/in/niteshiitj/">LinkedIn</a><br>
-    <a href="https://www.upwork.com/freelancers/~0166e3b08af5f7a0c8">Upwork</a><br>
+    <a href="https://www.linkedin.com/in/niteshiitj/" target="_blank">LinkedIn</a><br>
+    <a href="https://www.upwork.com/freelancers/~0166e3b08af5f7a0c8" target="_blank">Upwork</a><br>
     Email: nitesh.iitjammu@gmail.com
 </p>
 
