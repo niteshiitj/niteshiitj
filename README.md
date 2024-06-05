@@ -28,12 +28,34 @@ For over 3 years, I have successfully managed multiple projects independently on
 </ul>
 
 <h3>🛠️ Languages and Tools</h3>
-<p>PHP, Laravel, Lumen, SilverStripe<br>
-ReactJs, Redux, VueJs<br>
-Apache & MySQL, LAMP<br>
-Backend REST APIs, HTML5, CSS3, SCSS, Tailwind CSS<br>
-PSD/Figma to HTML, JavaScript, jQuery, Linux<br>
-Jira</p>
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Lumen-E74430?style=flat&logo=lumen&logoColor=white" alt="Lumen" />
+  <img src="https://img.shields.io/badge/SilverStripe-2A2A2A?style=flat&logo=silverstripe&logoColor=white" alt="SilverStripe" />
+  
+  <img src="https://img.shields.io/badge/ReactJs-61DAFB?style=flat&logo=react&logoColor=black" alt="ReactJs" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/VueJs-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="VueJs" />
+  
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/LAMP-777BB4?style=flat&logo=lamp&logoColor=white" alt="LAMP" />
+  
+  <img src="https://img.shields.io/badge/Backend%20REST%20APIs-3B3B3B?style=flat&logo=rest&logoColor=white" alt="Backend REST APIs" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" alt="SCSS" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  
+  <img src="https://img.shields.io/badge/PSD%2FFigma%20to%20HTML-F24E1E?style=flat&logo=figma&logoColor=white" alt="PSD/Figma to HTML" />
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="Javascript" />
+  <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="JQuery" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira" />
+</p>
+
 
 <h3>💼 Why You Should Hire Me</h3>
 <ul>
