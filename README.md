@@ -1,65 +1,69 @@
-Hi 👋, I'm Nitesh
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nitesh's GitHub Profile</title>
+</head>
+<body>
+    <h1>Hi there 👋, I'm Nitesh!</h1>
+    
+    <h2>🚀 About Me</h2>
+    <p>I hold a Bachelor of Technology in Computer Science and Engineering and am currently pursuing an M.Tech in Data Science & Artificial Intelligence from IIT Jammu. I am a dedicated professional, driven by the ever-evolving challenges in technology. With strong leadership abilities, creative troubleshooting skills, and excellent communicative and interactive capabilities, I am passionate about developing and delivering exceptional web applications tailored to client needs.</p>
 
-Bachelor of Technology in Computer Science and Engineering. A dedicated professional, motivated by new challenges in technology. Good leadership abilities and creative troubleshooting proficiency. Good communicative and interactive skills.
-I am passionate and enthusiastic to develop and have the capability to create extraordinary web applications according to the needs and requirements of the clients.
+    <h3>Professional Experience</h3>
+    <p><strong>Senior Software Engineer @ A'alda Vet India</strong><br>
+    With over 7 years of experience in software development, testing, and documentation, I have honed my skills across the complete development lifecycle of a product. I am proficient in end-to-end software design and development, including requirement gathering, documentation, infrastructure setup, coding, and unit & integration testing. My ability to manage complex project management and coordination tasks ensures efficient and effective delivery of results.</p>
+    <p><strong>Freelancing on Upwork</strong><br>
+    For over 3 years, I have successfully managed multiple projects independently on Upwork, maintaining a Top Rated profile. Check out my profile <a href="https://www.upwork.com/freelancers/~0166e3b08af5f7a0c8">here</a>.</p>
 
-Professionaly Senior Software Engineer @ A'alda Vet India
+    <h3>🌱 Current Endeavors</h3>
+    <p>I am currently deepening my expertise by pursuing an M.Tech in Data Science & Artificial Intelligence at IIT Jammu.</p>
 
-7+ years experienced Software Engineer highly skilled in software development, testing, documentation etc. across the complete development life cycle of a product. Adept at end to end software design & development including requirement gathering, documentation, infrastructure setup, coding & unit & integration testing. Handles complex project management & coordination work very efficiently to deliver results.
+    <h3>👨‍💻 Projects</h3>
+    <p>Here are some of the projects I have worked on:</p>
+    <ul>
+        <li><a href="https://ppt-design.com/">PPT Design</a></li>
+        <li><a href="https://connectdmvet.com/">ConnectDM Vet</a></li>
+        <li><a href="https://manager.connectdmvet.com/">ConnectDM Vet Manager</a></li>
+        <li><a href="https://chatdmvet.com/">ChatDM Vet</a></li>
+        <li><a href="https://manager.chatdmvet.com/">ChatDM Vet Manager</a></li>
+        <li><a href="https://student-cribs.com/">Student Cribs</a></li>
+        <li><a href="https://sealogs.com/">SeaLogs</a></li>
+        <li><a href="https://hr.excellencetechnologies.in/">Excellence Technologies HR</a></li>
+        <li><a href="https://app.kolabree.com/">Kolabree</a></li>
+    </ul>
 
-3+ years of experience in freelancing on Upwork. Experience to manage multiple projects independently. Maintained Top Rated profile on Upwork https://www.upwork.com/freelancers/~0166e3b08af5f7a0c8
+    <h3>🛠️ Languages and Tools</h3>
+    <p>PHP, Laravel, Lumen, SilverStripe<br>
+    ReactJs, Redux, VueJs<br>
+    Apache & MySQL, LAMP<br>
+    Backend REST APIs, HTML5, CSS3, SCSS, Tailwind CSS<br>
+    PSD/Figma to HTML, JavaScript, jQuery, Linux<br>
+    Jira</p>
 
-🌱 Currently pursuing M.Tech in Data Science & Artificial Intelligence from IIT Jammu
+    <h3>💼 Why You Should Hire Me</h3>
+    <ul>
+        <li><strong>Accomplished Technical Professional</strong>: With a decade of experience in Computer Science, Information Technology, Projects, and Programs.</li>
+        <li><strong>Full Life-Cycle Solution Delivery</strong>: Expertise in analysis, design, development, automation testing, and deployment.</li>
+        <li><strong>Exceptional Collaboration & Team Building Skills</strong>: Skilled in managing cross-functional teams and recruiting high achievers.</li>
+        <li><strong>Rich Experience in Offshore Coordination</strong>: Worked with teams across various regions including USA, UK, France, Australia, Germany, Middle East, and South East Asia.</li>
+        <li><strong>Project Management Proficiency</strong>: Experienced in planning, tracking, estimating efforts, and managing client expectations.</li>
+    </ul>
 
-👨‍💻 Projects I have worked on:
-https://ppt-design.com/
-https://connectdmvet.com/
-https://manager.connectdmvet.com/
-https://chatdmvet.com/
-https://manager.chatdmvet.com/
-https://student-cribs.com/
-https://sealogs.com/
-https://hr.excellencetechnologies.in/
-https://app.kolabree.com/
+    <h3>🌟 Skill Set</h3>
+    <ul>
+        <li>Expertise in interactions, component design, and complex application structures using case-driven iterative development concepts.</li>
+        <li>Solutions/Enterprise Architecture and Development tailored to business needs.</li>
+        <li>Collaborative approach with project, business, data, development, and infrastructure resources to meet deadlines.</li>
+        <li>Proficient in AGILE practices and managing client expectations.</li>
+    </ul>
 
-Languages and Tools:
-PHP, Laravel, Lumen,  SilverStripe, ReactJs, Redux, VueJs, Apache & Mysql, LAMP, Backend REST API's, HTML5, CSS3, SCSS, Tailwind CSS, PSD/Figma to HTML, Javascript, JQuery, Linux, Jira
+    <h3>📫 Connect with Me</h3>
+    <p><a href="https://www.linkedin.com/in/niteshiitj/">LinkedIn</a><br>
+    <a href="https://www.upwork.com/freelancers/~0166e3b08af5f7a0c8">Upwork</a><br>
+    Email: nitesh.iitjammu@gmail.com</p>
 
-
-WHY YOU SHOULD HIRE ME?
-=======================
-
-⭐ Accomplished Technical Professional with a comprehensive background in Computer Science, Information Technology, Projects, and Programs with total experience of 1 decades.
-
-⭐ Rich experience in full life-cycle solution delivery activities such as analysis, design, development,
-automation testing & deployment.
-
-⭐ Exceptional collaboration & team building skills, possess keen ability to manage cross functional teams and recruit high achievers.
-
-⭐ Rich experience in offshore coordination, worked with team of different geographical regions like USA, UK, France, Australia,Germany, Middle East and South East countries.
-
-
-SKILL SET:
-==========
-⭐ Understand interactions, component design and complex application structures and make use of case driven iterative development concepts
-
-⭐ Solutions/Enterprise Architecture and Development to meet the needs of business and integrated into the enterprise software.
-
-⭐ Cooperatively worked with project, business, data, development, and infrastructure resources to deliver applications and meeting deadlines
-
-⭐ Well versed with planning and tracking, estimating efforts and other project management activities.
-Looking forward to working with you.
-
-⭐ Managing client expectations in terms of deliverable and timelines by participating in weekly status meetings with the project stakeholders and proactively identifying outstanding issues along with resolution/action plans
-
-⭐ AGILE practitioner.
-
-
-Connect with me:
-https://www.linkedin.com/in/niteshiitj/
-
-Hire me on:
-https://www.upwork.com/freelancers/~0166e3b08af5f7a0c8
-
-Contact: 
-nitesh.iitjammu@gmail.com
+    <p>Looking forward to collaborating and creating something extraordinary together!</p>
+</body>
+</html>
