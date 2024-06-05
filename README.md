@@ -19,8 +19,6 @@ For over 3 years, I have successfully managed multiple projects independently on
     <li><a href="https://ppt-design.com/">PPT Design</a></li>
     <li><a href="https://connectdmvet.com/">ConnectDM Vet</a></li>
     <li><a href="https://manager.connectdmvet.com/">ConnectDM Vet Manager</a></li>
-    <li><a href="https://chatdmvet.com/">ChatDM Vet</a></li>
-    <li><a href="https://manager.chatdmvet.com/">ChatDM Vet Manager</a></li>
     <li><a href="https://student-cribs.com/">Student Cribs</a></li>
     <li><a href="https://sealogs.com/">SeaLogs</a></li>
     <li><a href="https://hr.excellencetechnologies.in/">Excellence Technologies HR</a></li>
