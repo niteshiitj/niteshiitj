@@ -6,9 +6,9 @@
 
 <h3>Professional Experience</h3>
 <p><strong>Senior Software Engineer @ A'alda Vet India</strong><br>
-With over 7 years of experience in software development, testing, and documentation, I have honed my skills across the complete development lifecycle of a product. I am proficient in end-to-end software design and development, including requirement gathering, documentation, infrastructure setup, coding, and unit & integration testing. My ability to manage complex project management and coordination tasks ensures efficient and effective delivery of results.</p>
+With over 8+ years of experience in software development, testing, and documentation, I have honed my skills across the complete development lifecycle of a product. I am proficient in end-to-end software design and development, including requirement gathering, documentation, infrastructure setup, coding, and unit & integration testing. My ability to manage complex project management and coordination tasks ensures efficient and effective delivery of results.</p>
 <p><strong>Freelancing on Upwork</strong><br>
-For over 3 years, I have successfully managed multiple projects independently on Upwork, maintaining a Top Rated profile. Check out my profile <a href="https://www.upwork.com/freelancers/~0166e3b08af5f7a0c8">here</a>.</p>
+For over 4 years, I have successfully managed multiple projects independently on Upwork, maintaining a Top Rated profile. Check out my profile <a href="https://www.upwork.com/freelancers/~0166e3b08af5f7a0c8">here</a>.</p>
 
 <h3>🌱 Current Endeavors</h3>
 <p>I am currently deepening my expertise by pursuing an M.Tech in Data Science & Artificial Intelligence at IIT Jammu.</p>
