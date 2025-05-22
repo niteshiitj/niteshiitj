@@ -75,7 +75,6 @@ For over 4 years, I have successfully managed multiple projects independently on
 <h3>📫 Connect with Me</h3>
 <p>
     <a href="https://www.linkedin.com/in/niteshiitj/">LinkedIn</a><br>
-    <a href="https://www.upwork.com/freelancers/~0166e3b08af5f7a0c8">Upwork</a><br>
     Email: nitesh.iitjammu@gmail.com
 </p>
 
